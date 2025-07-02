@@ -15,7 +15,7 @@ body{
 }
 .wrapper{
   width: 420px;
-  background:url('image/pattern.jpg');
+  background:url('./black.jpg');
   border: 2px solid  #ff2770;
   box-shadow: 0 0 25px  #ff2770;
   backdrop-filter: blur(9px);
